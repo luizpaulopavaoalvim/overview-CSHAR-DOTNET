@@ -39,5 +39,6 @@ Para começar a trabalhar com C# e .NET, siga estes passos:
 ## Recursos Adicionais
 - [Documentação Oficial do C#](https://docs.microsoft.com/pt-br/dotnet/csharp/)
 - [Documentação Oficial do .NET](https://docs.microsoft.com/pt-br/dotnet/)
+- [Exercícios práticos de C# para iniciantes](https://github.com/luizpaulopavaoalvim/CSharp-Iniciantes/tree/main)
 
 Sinta-se à vontade para explorar, experimentar e contribuir para a vibrante comunidade de desenvolvedores C# e .NET!
